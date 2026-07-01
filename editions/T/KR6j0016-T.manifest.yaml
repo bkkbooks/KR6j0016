@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0016/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0016/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那略要速疾門五支念誦法
+  identifiers:
+    krp: KR6j0016
+    cbeta: T18n0858
+    cbeta_old_id: T18n0858
+    authorityid: CA0000652
+    json_key: T0858
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0858.xml
+    old_id: T18n0858
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0016_000-T.yaml, hash: 'sha256:4c5f70b86bcc6ed383d2720ec47341d51cf217da0d2d5a4737a72a701cf533f6'}
+  - {seq: 1, filename: KR6j0016_001-T.yaml, hash: 'sha256:d5d2fc421acbf7e7abf92c37a6b654edd2e4a44be9d6ebba00707f70dea91e9c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0016_000-T.markers.yaml, hash: 'sha256:bcd472d54e9daa21d29ce1b1cabebb2681568f41905edd8af7c2f4aed8a0e6fe'}
+  - {seq: 1, role: markers, filename: assets/KR6j0016_001-T.markers.yaml, hash: 'sha256:a0cd5616df3a132c7d840737c89c09cafb0a232bceb888ac99323cfc4fcc3026'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 334
+  label: '大毘盧遮那略要速疾門五支念
+
+    誦法'
+  type: juan
+  level: 1
+hash: sha256:2de12175f24c5af06322527bfc496857d6953f1b9e5b067b4e13fac88bb69f7d
