@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0016_000.yaml, hash: 'sha256:4c5f70b86bcc6ed383d2720ec47341d51cf217da0d2d5a4737a72a701cf533f6'}
-  - {seq: 1, filename: KR6j0016_001.yaml, hash: 'sha256:1f526bde72cd414674ae3b50faf62c2afa9d1683c2f7fd8b2f40e79fc1cda2b9'}
+  - {seq: 1, filename: KR6j0016_001.yaml, hash: 'sha256:d5d2fc421acbf7e7abf92c37a6b654edd2e4a44be9d6ebba00707f70dea91e9c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0016_001.markers.yaml, hash: 'sha256:064c326516b0b0fccc0a5cc927ef07f454059233d8174a0f789a7f6a9519dcf2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0016_000.markers.yaml, hash: 'sha256:7e944a411aa34acfd1316426579649075c87c8c52cc21d61fec7db45faa4ece3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0016_001.markers.yaml, hash: 'sha256:2cac1a602fd590a4ace0c7563e9d4350b94056ce38a84923fe8a84f140e3a871'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,9 +34,6 @@ table_of_contents:
     誦法'
   type: juan
   level: 1
-hash: sha256:dc0bbbd98212e8bf9885e5cad8086aa0bb86110259f6f1b0cfced097b5d13129
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:03924aa30f32f3f798a600d42ba58aa284b26ad6f124a3e7501f6f1d815b295d
 editions:
 - short: T
