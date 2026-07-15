@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0016/v1
 canonical_location: https://kanripo.org/bkk/KR6j0016/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大毘盧遮那略要速疾門五支念誦法
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0016_000.yaml, hash: 'sha256:4c5f70b86bcc6ed383d2720ec47341d51cf217da0d2d5a4737a72a701cf533f6'}
-  - {seq: 1, filename: KR6j0016_001.yaml, hash: 'sha256:d5d2fc421acbf7e7abf92c37a6b654edd2e4a44be9d6ebba00707f70dea91e9c'}
+  - {seq: 1, filename: KR6j0016_001.yaml, hash: 'sha256:8aba1d8b66a5eb69dde752d105529fb0dbbe559fc8c08601fc6536f4fd24e61a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0016_000.markers.yaml, hash: 'sha256:7e944a411aa34acfd1316426579649075c87c8c52cc21d61fec7db45faa4ece3'}
-  - {seq: 1, role: markers, filename: assets/KR6j0016_001.markers.yaml, hash: 'sha256:2cac1a602fd590a4ace0c7563e9d4350b94056ce38a84923fe8a84f140e3a871'}
+  - {seq: 1, role: markers, filename: assets/KR6j0016_001.markers.yaml, hash: 'sha256:cd1d1e2d0f8c95167369d3624446fff7f259e653d2ac4ecd7ddfd1833070bc1c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -34,6 +34,9 @@ table_of_contents:
     誦法'
   type: juan
   level: 1
-hash: sha256:03924aa30f32f3f798a600d42ba58aa284b26ad6f124a3e7501f6f1d815b295d
+hash: sha256:e225bcf13474f484185cd4aab6b08978627ac2534cd0c1e2c7fb1fbca22e0554
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
